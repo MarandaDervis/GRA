@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Cajun Alfredo Chicken Pasta | Maranda Dervis 2025</title>
+</head>
+
+<body>
+	
+	<wrapper>
+<header>
+		<h1>Savory Delights</h1>
+		</header>
+		<main>
+			<img src="index.jpg" />
+				 
+		<h2>Cajun Chicken and Shrimp Alfredo</h2>
+		<p>Tender Deliecious bites of chicken and shrimp are tossed with pasta and colorful bell peppers in a creamy, slightly spicy sauce to create this Cajun Chicken and Shrimp Pasta.</p>
+		<section>
+			<h3>Ingriedents</h3>
+			<ul>
+				<li>fettutine pasta</li>
+				<li>shrimp</li>
+				<li>chicken</li>
+				<li>cajun seasoning</li>
+				<li>bell pepper</li>
+				<Li>onion</Li>
+			</ul>
+			</section>
+			<section>
+			<h3>Instructions</h3>
+			<ol>
+				<Li>Place your fettutine pasta in a boling pot of water with a pinch of salt</Li>
+				<li></li>
+				<li></li>
+				<Li></Li>
+				<li></li>
+				<li></li>
+				</ol>
+			</section>
+		</main>
+		
+		<footer>
+		
+		</footer>
+</wrapper>
+</body>
+</html>
